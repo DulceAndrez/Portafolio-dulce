@@ -1,0 +1,40 @@
+.skills-line{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding-left: 1rem;
+    padding-right:2rem;
+    
+    
+}
+
+.bloque-skills{
+   
+    margin-top:5rem;
+}
+
+li{
+    list-style: none;
+    text-align: -webkit-match-parent;
+}
+
+.skills-box{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: flex-start;
+    padding: 18px;
+    background-color: #fbfbfb;
+    margin: 22px 0 22px 0;
+    width: 158px;
+    box-shadow: 0 8px 8px 0 rgba(0, 0, 0, 0.15);
+
+}
+
+.skills-img{
+    width: 70px;
+    height: 80px;
+   
+}
+
+

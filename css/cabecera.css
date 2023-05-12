@@ -1,0 +1,74 @@
+header{
+    
+    display: block;
+  
+    
+}
+
+
+.cabecera{
+    position: sticky;
+     top:0;
+     
+}
+
+
+
+.logo-img{
+    width: 250px;
+    height: 70px;
+    
+}
+
+
+.menu{
+  list-style:none ;
+  background-color: #f9f6f8;
+  width: 1300px;
+  height: 85px;
+  padding-top:2rem;
+  
+  
+    
+  
+}
+
+.menu-elemento{
+    display: inline-flex;
+    margin-bottom: 1.25rem;
+    margin-right:1rem; 
+    font-size: 18px;
+    font-weight: bold;
+    font-family: monospace;
+    
+    
+  
+}
+
+.menu-elementonom{
+    display:inline-block;
+    padding-right: 18rem;
+    font-size: 24px;
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Shantell Sans', cursive;
+}
+
+.menu-link{
+    text-decoration: none;
+    top: 12px;
+    color: blueviolet;
+    
+
+}
+
+.navegacion{
+    text-align: end;
+   
+}
+
+.menu-link:hover{
+    color: rgb(202, 156, 245);
+    
+}

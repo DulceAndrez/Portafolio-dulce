@@ -1,0 +1,45 @@
+.formacion-line{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    
+    
+}
+
+.bloque-formacion{
+    
+    margin-top:5rem;
+   
+}
+
+li{
+    list-style: none;
+    text-align: -webkit-match-parent;
+}
+
+.formacion-box{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: flex-start;
+    padding: 16px;
+    background-color: #fbfbfb;
+    margin: 22px 0 22px 0;
+    width: 168px;
+    box-shadow: 0 8px 8px 0 rgba(0, 0, 0, 0.15);
+
+}
+
+.seccion-texto{
+    text-align: center;
+}
+
+.formacion-img{
+    width: 74px;
+    height: 72px;
+}
+
+.formacion-imag{
+    width: 95px;
+    height: 75px;
+}

@@ -1,0 +1,41 @@
+.certificaciones-line{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding-left: 2rem;
+    padding-right:2rem;
+    
+    
+}
+
+.bloque-certificaciones{
+    box-shadow: 0 8px 8px 0 rgba(0, 0, 0, 0.15);
+    margin-top:5rem;
+    background-color: rgba(237, 219, 244, 0.623);
+}
+
+.seccion-texto{
+    padding-top:2rem;
+}
+
+li{
+    list-style: none;
+    text-align: -webkit-match-parent;
+}
+
+.certificaciones-box{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: flex-start;
+    padding: 16px;
+    background-color: #fbfbfb;
+    margin: 22px 0 22px 0;
+    width: 165px;
+
+}
+
+.img-certificaciones{
+    width: 58px;
+    height: 55px;
+}

@@ -1,0 +1,134 @@
+
+
+.bloque-contacto{
+    height: 820px;
+    margin-top: 5rem;
+    background-color: rgba(237, 219, 244, 0.623);
+    box-shadow: 0 8px 8px 0 rgba(0, 0, 0, 0.15);
+}
+
+.form{
+    
+    width: 50%;
+    margin: auto;
+    margin-top: 5px;
+    margin-left: 3rem;
+    height: 68%;
+    float: left;
+    padding: 30px 50px ;
+    background: rgba(0, 0, 0, 0.15);
+    
+    
+}
+
+.form-input{
+    
+    margin-bottom: 30px;
+}
+
+.form-input label{
+    display: block;
+    margin-top: 10px;
+    font-size: 18px;
+    
+}
+
+
+
+
+.form-input input{
+    width: 100%;
+    border: none;
+    outline: none;
+    background: none;
+    border-bottom: 1px solid black;
+    height: 38px;
+}
+
+.form-input input:focus + label{
+   font-weight: bold;
+}
+
+.textarea{
+    background: none;
+    border: 1px solid;
+}
+.form-boton input{
+    background:rgb(218, 186, 249); 
+    color: black;
+    cursor: pointer;
+    padding: 10px 10px;
+    width: 100px;
+    font-size: 15px;
+    margin: auto;
+    display: block;
+   border-color: rgb(216, 180, 251);
+   
+
+}
+
+.form-boton{
+    padding-top: 1.5rem;
+}
+
+.form-boton input:hover{
+    background: rgba(237, 219, 244, 0.623);;
+}
+
+    .micontacto-descripcion {
+        
+        padding: 1.5rem;
+        box-sizing: border-box;
+        border-radius: 1rem;
+        float: right;
+        margin-right: 4rem;
+        height: 610px;
+        width: 350px;
+     
+
+}
+
+
+.contacto-detallecorreo{
+    padding-top: 2rem;
+    justify-content: space-around;
+   margin-left: 4rem;
+   text-decoration: none;
+   color: black;
+}
+
+
+.contacto-detalletel{
+    padding-top: 2rem;
+    justify-content: space-around;
+    margin-left: 6rem;
+   text-decoration: none;
+   color: black;
+}
+
+
+
+.micontacto-titulocorreo{
+    padding-bottom: 4rem;
+    margin-left: 2rem;
+    font-size: 28px;
+}
+
+.micontacto-titulotel{
+    padding-bottom: 4rem;
+    margin-left: 6rem;
+    font-size: 28px;
+}
+
+.micontacto-icono{
+    padding-top: 4rem;
+    margin-left: 7rem;
+   
+}
+
+.micontacto-elemento{
+    margin-top: 3rem;
+}
+
+
+

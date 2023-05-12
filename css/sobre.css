@@ -1,0 +1,35 @@
+.bloque-sobremi{
+    height: 380px;
+    margin-top:5rem;
+    background-color: rgba(237, 219, 244, 0.623);
+    box-shadow: 0 8px 8px 0 rgba(0, 0, 0, 0.15);
+    
+    
+}
+
+.sobremi-seccion{
+padding-top: 90px;
+margin-right: 2rem;
+margin-left: 2rem;
+text-align: justify;
+
+
+
+}
+
+.seccion-texto{
+    text-align: center;
+    font-size: 36px;
+    font-family: monospace;
+    
+    
+   
+}
+
+.sobremi-cuadro{
+    padding-left: 2.5rem;
+    padding-right: 2.5rem;
+    
+}
+
+
